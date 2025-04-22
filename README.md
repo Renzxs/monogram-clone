@@ -18,12 +18,17 @@
 3. Semantic HTML, the HTML format should follow the semantic way of writing html. Ex.
 
 ```
+    <!-- Header -->
     <header>
         <nav></nav>
     </header>
+
+    <!-- Main Content -->
     <main>
         <section></section>
     </main>
+
+    <!-- Footer -->
     <footer>
     </footer>
     <>
